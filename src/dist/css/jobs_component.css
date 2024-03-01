@@ -1,0 +1,16 @@
+.jobs-div {
+  background: #e7e7e775;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+
+.jobs-div h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.jobs-div p {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
